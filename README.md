@@ -1,1 +1,1 @@
-# odin-recipes
+This is practice for creating a website based on Odin Project
